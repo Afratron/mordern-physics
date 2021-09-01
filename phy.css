@@ -38,4 +38,7 @@ body {
   h2 {
     border-bottom: none;
   }
-}
+#By {
+       font-family: sans-serif,"Ink free", "MV Boli;
+       font-style: italic;
+      }
